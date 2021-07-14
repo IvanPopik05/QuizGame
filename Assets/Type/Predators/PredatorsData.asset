@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15f63ea759b8082489107595e5a0a316, type: 3}
+  m_Name: PredatorsData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "\u041A\u0430\u043A \u0437\u043E\u0432\u0443\u0442 \u0441\u0430\u0431\u043B\u0435\u0437\u0443\u0431\u044B\u0445
+      \u0442\u0438\u0433\u0440\u043E\u0432?"
+    questionType: 0
+    questionVideo: {fileID: 0}
+    questionImg: {fileID: 21300000, guid: d37bb5309be9190409ba7af25c3022ba, type: 3}
+    options:
+    - "\u0421\u043C\u0438\u043B\u043E\u0434\u043E\u043D"
+    - "\u0410\u0440\u043C\u0430\u0433\u0435\u043D\u0434\u043E\u043D"
+    - "\u0413\u0435\u0434\u043E\u043D"
+    correctAnswer: "\u0421\u043C\u0438\u043B\u043E\u0434\u043E\u043D"
+  - questionInfo: "\u041A\u0430\u043A \u0437\u043E\u0432\u0443\u0442 \u0441\u0430\u0431\u043B\u0435\u0437\u0443\u0431\u044B\u0445
+      \u043A\u043E\u0448\u0435\u043A?"
+    questionType: 0
+    questionVideo: {fileID: 0}
+    questionImg: {fileID: 21300000, guid: 83f7adbe3a3cbcb4ba5db1dafe6e0584, type: 3}
+    options:
+    - "\u0413\u0435\u0434\u043E\u043D"
+    - "\u041C\u0435\u0433\u0430\u043D\u0442\u0435\u0440\u0435\u043E\u043D"
+    - "\u041A\u0430\u0440\u0430\u043C\u0435\u043E\u043D"
+    correctAnswer: "\u041C\u0435\u0433\u0430\u043D\u0442\u0435\u0440\u0435\u043E\u043D"
+  - questionInfo: "\u041A\u0442\u043E \u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0451\u043D
+      \u043D\u0430 \u0444\u043E\u0442\u043E\u0433\u0440\u0430\u0444\u0438\u0438"
+    questionType: 0
+    questionVideo: {fileID: 0}
+    questionImg: {fileID: 21300000, guid: 1ccd9cb0c6b9eeb46a1364daeb6d1b4f, type: 3}
+    options:
+    - "\u0412\u0430\u0440\u0430\u043D"
+    - "\u0414\u0440\u0430\u043A\u043E\u043D"
+    - "\u041C\u0435\u0433\u0430\u043B\u0430\u043D\u0438\u044F"
+    correctAnswer: "\u041C\u0435\u0433\u0430\u043B\u0430\u043D\u0438\u044F"
+  - questionInfo: "\u041C\u0435\u0433\u0430\u043B\u0430\u0434\u043E\u043D - \u0443\u0441\u043F\u0435\u0448\u043D\u044B\u0439
+      \u043B\u0438 \u0445\u0438\u0449\u043D\u0438\u043A?"
+    questionType: 0
+    questionVideo: {fileID: 0}
+    questionImg: {fileID: 21300000, guid: 3c0d8b6a39cc59f499bb3c4c965ff3e2, type: 3}
+    options:
+    - "\u041D\u0435\u0442, \u0435\u0441\u0442\u044C \u0431\u043E\u043B\u0435\u0435
+      \u0443\u0441\u043F\u0435\u0448\u043D\u044B\u0435"
+    - "\u0414\u0430, \u0443\u0431\u0438\u0432\u0430\u043B\u0438 \u043A\u043E\u0433\u043E
+      \u0443\u0433\u043E\u0434\u043D\u043E"
+    - "\u0414\u0430, \u043D\u043E \u043D\u0435\u043A\u043E\u0442\u043E\u0440\u044B\u0435
+      \u0441\u0438\u043B\u044C\u043D\u0435\u0435 \u0435\u0433\u043E"
+    correctAnswer: "\u0414\u0430, \u0443\u0431\u0438\u0432\u0430\u043B\u0438 \u043A\u043E\u0433\u043E
+      \u0443\u0433\u043E\u0434\u043D\u043E"
+  - questionInfo: "\u0414\u043B\u0438\u043D\u0430 \u041C\u0430\u0437\u043E\u0437\u0430\u0432\u0440\u0430:"
+    questionType: 0
+    questionVideo: {fileID: 0}
+    questionImg: {fileID: 21300000, guid: a457013e0bf1d6445acb62382bfe35e6, type: 3}
+    options:
+    - 17,6
+    - 13
+    - 40
+    correctAnswer: 17,6
